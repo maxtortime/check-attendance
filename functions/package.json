@@ -1,9 +1,10 @@
 {
-    "name": "check-attendance",
-    "description": "Simple web application for alarm to Creams members",
-    "dependencies": {
-        "firebase-admin": "^4.1.2",
-        "firebase-functions": "^0.5"
-    },
-    "private": true
+  "name": "check-attendance",
+  "description": "Simple web application for alarm to Creams members",
+  "dependencies": {
+    "firebase-admin": "^4.1.2",
+    "firebase-functions": "^0.5",
+    "vue": "^2.2.6"
+  },
+  "private": true
 }
